@@ -18,4 +18,6 @@ Dentro de nuestra página de Travis entramos en la sección "+" de repositorios 
 
 Deberemos crear un fichero [.travis.yml](https://github.com/mariasanzs/makeupIV/blob/master/.travis.yml) en nuestro repositorio de GitHub con las especificaciones necesarias.
 
-Una vez esto esté hecho, travis se ejecutará automáticamente y determinará si hay algún tipo de fallo o no
+Una vez esto esté hecho, travis se ejecutará automáticamente y determinará si hay algún tipo de fallo o no.
+
+![pasandoTravis](https://github.com/mariasanzs/EjerciciosIV/blob/master/img/ejer9-travis.png)
