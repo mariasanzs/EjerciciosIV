@@ -14,10 +14,4 @@ Dentro de nuestra página de Travis entramos en la sección "+" de repositorios 
 
 ![ActivarRepositorio](https://github.com/mariasanzs/EjerciciosIV/blob/master/img/activarRepositorio.png)
 
-***Crear un fichero de configuración para que se ejecute la integración y añadirlo al repositorio.***
 
-Deberemos crear un fichero [.travis.yml](https://github.com/mariasanzs/makeupIV/blob/master/.travis.yml) en nuestro repositorio de GitHub con las especificaciones necesarias.
-
-Una vez esto esté hecho, travis se ejecutará automáticamente y determinará si hay algún tipo de fallo o no.
-
-![pasandoTravis](https://github.com/mariasanzs/EjerciciosIV/blob/master/img/ejer9-travis.png)
