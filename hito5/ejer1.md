@@ -34,10 +34,13 @@ Por último, una vez tenemos esto, arrancamos vercel, especificamos nuestro corr
 
 Puedes consultar mi perfil de Firebase [aquí](https://console.firebase.google.com/u/1/project/ejerciciosiv/overview)
 
-Accedemos a firebase haciendo uso de nuestra cuenta de go.urg.es
+Accedemos a firebase haciendo uso de nuestra cuenta de go.urg.es y creamos un proyecto nuevo
 
-Creamos un proyecto nuevo
+![firebase](https://github.com/mariasanzs/EjerciciosIV/blob/master/img/firebase.png)
 
 Descargamos el SDK cuyo comando podemos encontrar en la sección de Hosting
 ![installsdk](https://github.com/mariasanzs/EjerciciosIV/blob/master/img/installfirebase.png)
 
+Y hacemos firebase login en la terminar para loguearnos de forma local
+
+![firebaselogin](https://github.com/mariasanzs/EjerciciosIV/blob/master/img/firebaselogin.png)
