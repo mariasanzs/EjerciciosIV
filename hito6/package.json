@@ -1,0 +1,19 @@
+{
+  "name": "hito6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "expressbasico.js",
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "test": "^0.6.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "superagent": "^6.1.0",
+    "supertest": "^6.0.1"
+  }
+}
