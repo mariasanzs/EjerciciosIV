@@ -20,6 +20,6 @@ Para hacerlo se han seguido las directrices de la documentación indicada arriba
 
 Podemos probar ahora que nuestro programa funciona creando un primer valor para 'clave' y obteniendo dicho valor ejecutando el programa:
 
-![prueba-etcdv3](https://github.com/mariasanzs/EjerciciosIV/blob/master/img/etcdv3-rb.png)
+![prueba-etcdv3](https://github.com/mariasanzs/EjerciciosIV/blob/master/img/prueba-etcdv3.png)
 
 
