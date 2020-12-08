@@ -20,6 +20,10 @@ Para hacerlo se han seguido las directrices de la documentación indicada arriba
 
 Podemos probar ahora que nuestro programa funciona creando un primer valor para 'clave' y obteniendo dicho valor ejecutando el programa:
 
+Antes de hacer esto deberemos de fijar una variable de entorno para que todo funcione sin problemas
+
+>export ETCDCTL_API=3
+
 ![prueba-etcdv3](https://github.com/mariasanzs/EjerciciosIV/blob/master/img/prueba-etcdv3.png)
 
 
