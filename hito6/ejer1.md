@@ -14,4 +14,12 @@ Para poner en marcha etcdv3 en Ruby instalamos la siguiente gema:
 
 Una vez tenemos hecho esto podemos establecer una conexión creando un sencillo programa similar a este:
 
+![etcdv3-rb](https://github.com/mariasanzs/EjerciciosIV/blob/master/img/etcdv3-rb.png)
+
+Para hacerlo se han seguido las directrices de la documentación indicada arriba.
+
+Podemos probar ahora que nuestro programa funciona creando un primer valor para 'clave' y obteniendo dicho valor ejecutando el programa:
+
+![prueba-etcdv3](https://github.com/mariasanzs/EjerciciosIV/blob/master/img/etcdv3-rb.png)
+
 
